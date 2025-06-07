@@ -10,3 +10,4 @@ holidays
 bcrypt
 cryptography
 statsmodels
+scipy
